@@ -1,0 +1,13 @@
+/Users/mymac/work/ora/Product-Management/ProductManagementService/src/main/java/com/oracle/acs/dao/spec/PersonSpecification.java
+/Users/mymac/work/ora/Product-Management/ProductManagementService/src/main/java/com/oracle/acs/ProductManagementApplication.java
+/Users/mymac/work/ora/Product-Management/ProductManagementService/src/main/java/com/oracle/acs/controller/MessageController.java
+/Users/mymac/work/ora/Product-Management/ProductManagementService/src/main/java/com/oracle/acs/model/Echo.java
+/Users/mymac/work/ora/Product-Management/ProductManagementService/src/main/java/com/oracle/acs/model/Order.java
+/Users/mymac/work/ora/Product-Management/ProductManagementService/src/main/java/com/oracle/acs/model/Product.java
+/Users/mymac/work/ora/Product-Management/ProductManagementService/src/main/java/com/oracle/acs/dao/PersonRepository.java
+/Users/mymac/work/ora/Product-Management/ProductManagementService/src/main/java/com/oracle/acs/controller/OrdersController.java
+/Users/mymac/work/ora/Product-Management/ProductManagementService/src/main/java/com/oracle/acs/dao/ProductRepository.java
+/Users/mymac/work/ora/Product-Management/ProductManagementService/src/main/java/com/oracle/acs/model/Person.java
+/Users/mymac/work/ora/Product-Management/ProductManagementService/src/main/java/com/oracle/acs/controller/ProductsController.java
+/Users/mymac/work/ora/Product-Management/ProductManagementService/src/main/java/com/oracle/acs/controller/PersonsController.java
+/Users/mymac/work/ora/Product-Management/ProductManagementService/src/main/java/com/oracle/acs/dao/OrderRepository.java

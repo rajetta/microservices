@@ -1,0 +1,22 @@
+spring:
+  cloud:
+      config:
+        uri: http://configservice:2000
+        name: democonfigservice
+        enabled: true
+        fail-fast: true
+        profile: dev
+  application:
+    name: product-mgmt
+ 
+ 
+  jpa:
+    properties:
+      hibernate:
+        show_sql: true
+        format_sql: true
+logging:
+  level:
+    org:
+      hibernate:
+        type: trace

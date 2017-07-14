@@ -1,0 +1,13 @@
+com/oracle/acs/controller/OrdersController.class
+com/oracle/acs/controller/PersonsController.class
+com/oracle/acs/controller/ProductsController.class
+com/oracle/acs/controller/MessageController.class
+com/oracle/acs/model/Person.class
+com/oracle/acs/ProductManagementApplication.class
+com/oracle/acs/dao/spec/PersonSpecification.class
+com/oracle/acs/dao/OrderRepository.class
+com/oracle/acs/model/Order.class
+com/oracle/acs/model/Echo.class
+com/oracle/acs/model/Product.class
+com/oracle/acs/dao/PersonRepository.class
+com/oracle/acs/dao/ProductRepository.class
