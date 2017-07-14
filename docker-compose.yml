@@ -1,0 +1,22 @@
+version: '2.1'
+services:
+  configservice:
+      build: ./microservice-configuration-server/config-server
+      hostname: configservice 
+      ports:
+        - "2000:2000"
+      healthcheck:
+        test: ["CMD", "curl", "http://localhost:2000"]
+        interval: 10s
+        timeout: 3s
+        retries: 5
+  productservice:
+      build: ./Product-Management/ProductManagementService
+      hostname: productservice
+      ports:
+        - "7000:7000"
+      links:
+        - configservice
+      depends_on:
+         configservice:
+            condition: service_healthy
